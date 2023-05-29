@@ -21,6 +21,6 @@ via [excalidraw](https://excalidraw.com/#room=dc2574af09de86b8b112,No-CmkqU1Nsvj
 
 ## Author
 
-- [@j3](https://github.com/giljr/flask_outfit_store)
+- [@j3](https://jaythree.medium.com/)
 
 
